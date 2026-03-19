@@ -54,9 +54,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🌍 Portfolio: (add your portfolio link)
+- 💼 LinkedIn: [Anurag Kumar](https://www.linkedin.com/in/anurag-kumar-694166327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: [anuragvashu274@gmail.com](mailto:anuragvashu274@gmail.com)
+- 🌍 Portfolio: [My Portfolio](https://anurag2.netlify.app/)
 
 ---
 
